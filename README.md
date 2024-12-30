@@ -1,0 +1,6 @@
+# 2016年金融理财社区复利投资理财源码
+
+2016年金融理财社区复利投资理财源码<br>环境要求：example.com example.com<br>免责声明：本源码来源于网络，源码仅作学习测试使用，请勿用于非法用途，出现任何法律纠纷与卖家无关！购买本店任一源码 ，好评后送本站vip会员，好评后联系客服<br>购买前协议：<br>1、购买前请先阅读此协议，拍下则表示同意此协议。<br>2、店内所有源码、软件全部由店主亲自调试，功能无任何限制完全可用。无任何技术服务，谢绝任何退款。<br>3、给中评或差评及骗子，请绕道，我们不欢迎你。否则投诉+差评，<br>4、请买家本着诚信交易的态度购买。本店有偿技术支持，需要的请联系技术！<br>3、本店不提供对源码进行修改，例如：LOGO、代码、界面、功能等，也不负责将源码传到空间等服务。如需技术支持请联系技术另行收费！<br>虚拟购买源码说明：<br>1，因源码具有可复制性，一经出售谢绝退款，希望理解和支持；<br>2，程序经反复测试功能完整可用，环境调试需自已完成；<br>3，网页空间要求:支持php+mysql数据库，本地电脑安装仅可用做测试；<br>4，会点程序代码的人都知道，同样的源码，在不同服务器可能会出现这样那样的bug,本程序源码开源完整。<br>源码过多，不可能每套源码都有演示站，源码亲测可用和图片截图一样，介意的亲们不要拍，O（∩_∩）O谢谢合作。<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/PjBK4" style="color: red;">https://mega-file.org/PjBK4</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
